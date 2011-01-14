@@ -31,6 +31,27 @@ body {
     text-align: center;
     font-size: 50%;
 }
+.support {
+    position: absolute;
+    right: 10px;
+    bottom: 60px;
+    list-style-type: none;
+}
+
+.support img {
+    width: 70px;
+}
+
+.hacklabs {
+    position: absolute;
+    left: 0px;
+    top: 20px;
+    list-style-type: none;
+}
+
+.hacklabs img {
+    width: 70px;
+}
 
 .post {
     background: rgba(255, 255, 255, 0.20);
@@ -44,6 +65,7 @@ body {
     color: white;
     padding:2px;
 }
+
 
 .post_extras {
     text-align: left;
@@ -74,13 +96,13 @@ body {
 }
 
 .blog_post_extras {
-    background: rgba(0, 0, 0, 0.5);
     color: white;
     font-style: italic;
     font-size: 60%;
     vertical-align: center;
-    margin-right: 20%;
-    margin-left: 20%;
+    padding: 2px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .post_prose {
@@ -88,9 +110,8 @@ body {
     font-family: none;
     color: black;
     border-spacing: 10px;
-    margin-right: 20%;
-    margin-left: 20%;
-    margin-bottom: 20%;
+    margin-right: 0%;
+    margin-left: 0%;
     text-align: left
 }
 
