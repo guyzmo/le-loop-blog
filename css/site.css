@@ -1,0 +1,123 @@
+body {
+    background: black url('/img/bg.jpeg') no-repeat;
+    color: green;
+    font-family: Monospace, Courier;
+    text-align: center;
+}
+
+.links {
+    font-size: 75%;
+    background : rgba(0,0,0,0.5);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.title {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 350%;
+}
+
+.static {
+    position: relative;
+    top: -10px;
+    text-align: center;
+}
+
+.status {
+    position: relative;
+    top: -15px;
+    text-align: center;
+    font-size: 50%;
+}
+
+.post {
+    background: rgba(255, 255, 255, 0.20);
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+.post_title {
+    text-align: left;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.post_extras {
+    text-align: left;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    font-style: italic;
+    font-size: 60%;
+    vertical-align: center;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.post_excerpt {
+    text-align: left;
+    background: rgba(255, 255, 255, 0.5);
+    font-family: none;
+    color: black;
+    border-spacing: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+
+.blog_post_title {
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+.blog_post_extras {
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    font-style: italic;
+    font-size: 60%;
+    vertical-align: center;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+.post_prose {
+    background: rgba(255, 255, 255, 0.5);
+    font-family: none;
+    color: black;
+    border-spacing: 10px;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-bottom: 20%;
+    text-align: left
+}
+
+
+#credits {
+    font-size: 50%;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+a {
+    text-decoration:none;
+    color:inherit;
+}
+a:visited {
+    text-decoration:none;
+    color:inherit;
+}
+a:hover {
+    text-decoration:underline;
+    color:inherit;
+}
