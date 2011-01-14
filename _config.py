@@ -21,6 +21,27 @@
 #  including that subdirectory: "http://www.yoursite.com/path/to/blogofile-dir"
 site.url = "http://www.yoursite.com"
 
+site.file_ignore_patterns = [
+# All files that start with an underscore
+".*/_.*",
+# Emacs temporary files
+".*/#.*",
+# Emacs/Vim temporary files
+".*~$",
+# Vim swap files
+".*/\..*\.swp$",
+# VCS directories
+".*/\.(git|hg|svn|bzr)$",
+# Git and Mercurial ignored files definitions
+".*/.(git|hg)ignore$",
+# CVS dir
+".*/CVS$",
+".*/old",
+".*/cgi",
+".*/blog\.git"
+]
+
+
 #### Blog Settings ####
 blog = controllers.blog
 
