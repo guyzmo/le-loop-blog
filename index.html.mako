@@ -4,7 +4,7 @@
 % for post in bf.config.blog.posts[0:5]:
 <div class="post">
   <a name="${post.slug}"></a>
-  <div class="post_title"><a href="${post.permapath()}" rel="bookmark" title="Permanent Link to ${post.title}">${post.title}</a></div>
+  <div class="post_title rounded"><a href="${post.permapath()}" rel="bookmark" title="Permanent Link to ${post.title}">${post.title}</a></div>
   <div class="post_extras">${post.date.strftime("%B %d, %Y at %H:%M")} | categories: 
 <% 
    category_links = []
