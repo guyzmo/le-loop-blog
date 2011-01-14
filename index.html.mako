@@ -6,7 +6,7 @@
 <div class="post">
   <a name="${post.slug}"></a>
   <div class="post_title"><a href="${post.permapath()}" rel="bookmark" title="Permanent Link to ${post.title}">${post.title}</a></div>
-  <small class="post_extras">${post.date.strftime("%B %d, %Y at %H:%M")} | categories: 
+  <div class="post_extras">${post.date.strftime("%B %d, %Y at %H:%M")} | categories: 
 <% 
    category_links = []
    for category in post.categories:
@@ -20,7 +20,7 @@ ${", ".join(category_links)}
 % if bf.config.blog.disqus.enabled:
  | <a href="${post.permalink}#disqus_thread">View Comments</a>
 % endif
-</small><p/>
+</div><p/>
   <div class="post_excerpt">
     ${post.content}
   </div>
