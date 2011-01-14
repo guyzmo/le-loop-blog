@@ -1,6 +1,6 @@
 body {
     background: black url('/img/bg.jpeg') no-repeat;
-    color: green;
+    color: white;
     font-family: Monospace, Courier;
     text-align: center;
 }
@@ -42,22 +42,18 @@ body {
     text-align: left;
     background: rgba(0, 0, 0, 0.5);
     color: white;
-    margin-top: 5px;
-    margin-right: 5px;
-    margin-left: 5px;
+    padding:2px;
 }
 
 .post_extras {
     text-align: left;
-    background: rgba(0, 0, 0, 0.5);
     color: white;
     font-style: italic;
     font-size: 60%;
     vertical-align: center;
-    margin-right: 5px;
-    margin-left: 5px;
     margin-top: 0px;
     margin-bottom: 0px;
+    padding:2px;
 }
 
 .post_excerpt {
@@ -66,9 +62,7 @@ body {
     font-family: none;
     color: black;
     border-spacing: 10px;
-    margin-right: 5px;
-    margin-left: 5px;
-    margin-bottom: 5px;
+    padding:2px;
 }
 
 
@@ -121,3 +115,14 @@ a:hover {
     text-decoration:underline;
     color:inherit;
 }
+
+.rounded {
+    padding:0px;
+    margin-bottom:5px;
+    border-radius:5px 5px 5px 5px;
+    -moz-border-radius:5px 5px 5px 5px; 
+    -webkit-border-bottom-left-radius:5px;
+    -webkit-border-bottom-right-radius:5px;
+    -webkit-border-top-left-radius:5px;
+    -webkit-border-top-right-radius:5px;}
+
