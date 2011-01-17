@@ -25,33 +25,27 @@ body {
     text-align: center;
 }
 
-.status {
+.heisenberg {
     position: relative;
     top: -15px;
     text-align: center;
     font-size: 50%;
 }
-.support {
-    position: absolute;
-    right: 10px;
-    bottom: 60px;
+
+#footer {
+    position: relative;
+    font-size: 20%;
+    text-align: right;
+}
+
+#footer ul {
     list-style-type: none;
 }
 
-.support img {
-    width: 70px;
+#footer ul img {
+    width: 65px;
 }
 
-.hacklabs {
-    position: absolute;
-    left: 0px;
-    top: 20px;
-    list-style-type: none;
-}
-
-.hacklabs img {
-    width: 70px;
-}
 
 .post {
     background: rgba(255, 255, 255, 0.20);
@@ -66,7 +60,6 @@ body {
     padding:2px;
 }
 
-
 .post_extras {
     text-align: left;
     color: white;
@@ -79,12 +72,21 @@ body {
 }
 
 .post_excerpt {
-    text-align: left;
+    text-align: justify;
     background: rgba(255, 255, 255, 0.5);
     font-family: none;
     color: black;
     border-spacing: 10px;
-    padding:2px;
+    padding:5px;
+}
+
+.post_prose {
+    text-align: justify;
+    background: rgba(255, 255, 255, 0.5);
+    font-family: none;
+    color: black;
+    border-spacing: 10px;
+    padding:5px;
 }
 
 
@@ -105,16 +107,6 @@ body {
     margin-bottom: 0px;
 }
 
-.post_prose {
-    background: rgba(255, 255, 255, 0.5);
-    font-family: none;
-    color: black;
-    border-spacing: 10px;
-    margin-right: 0%;
-    margin-left: 0%;
-    text-align: left
-}
-
 
 #credits {
     font-size: 50%;
@@ -122,6 +114,33 @@ body {
     bottom: 10px;
     right: 10px;
     background: rgba(0, 0, 0, 0.5);
+}
+
+.prose {
+    background: rgba(255, 255, 255, 0.5);
+    color: black;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify;
+}
+
+.prose div {
+    padding: 20px;
+}
+
+.prose h1 {
+    font-weight: none;
+    font-size: 120%;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.prose .citation {
+    color: white;
+    font-style: italic;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-bottom: 20px;
 }
 
 a {
@@ -146,4 +165,6 @@ a:hover {
     -webkit-border-bottom-right-radius:5px;
     -webkit-border-top-left-radius:5px;
     -webkit-border-top-right-radius:5px;}
+font-weight: bold;
+
 

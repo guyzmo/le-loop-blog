@@ -14,10 +14,10 @@
           ${next.body()}
         </div><!-- End Prose Block -->
       </div><!-- End Main Block -->
-      <div id="footer">
-        ${self.footer()}
-      </div> <!-- End Footer -->
     </div> <!-- End Content -->
+    <div id="footer">
+      ${self.footer()}
+    </div> <!-- End Footer -->
   </body>
 </html>
 <%def name="head()">
@@ -27,5 +27,6 @@
   <%include file="header.mako" />
 </%def>
 <%def name="footer()">
+  <%include file="support.mako" />
   <%include file="footer.mako" />
 </%def>

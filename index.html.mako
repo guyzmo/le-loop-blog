@@ -1,6 +1,5 @@
 <%inherit file="_templates/site.mako" />
 
-<br />
 % for post in bf.config.blog.posts[0:5]:
 <div class="post rounded">
   <a name="${post.slug}"></a>
