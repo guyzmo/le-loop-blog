@@ -25,7 +25,7 @@ qui y participent peuvent travailler sur leurs projets.
 
 <div>
 Cette idée est vieille comme l'informatique, avec notamment les clubs
-« homebrew » des années 60-70, le CCC en allemagne dans les années 80,
+«&nbsp;homebrew&nbsp;» des années 60-70, le CCC en allemagne dans les années 80,
 puis le mouvement du libre des années 90.
 </div>
 
@@ -42,6 +42,14 @@ ou <a href="http://le-localhost.fr">le Localhost</a> qui, basé dans des squats,
 Le <a href="http://www.logre.org">Log</a> à Grenoble, le <a href="http://www.breizh-entropy.org/">Breizh Entropy Lab</a>
 à Rennes, ou encore <a href="http://blackboxe.fr">le Blackboxe</a> et <a href="http://electrolab.fr">l'Electrolab</a>
 qui sont plein d'avenir.
+</div>
+
+<div>
+Le LOOP est un genre de hackerspace un peu particulier, dans le sens où celui-ci ne se défini plus par rapport
+à son lieu, étant lui-m&ecirc;me sans lieu fixe, mais dépendant du lieu pouvant lui offrir l'espace nécessaire
+à son fonctionnement. Ainsi, il pourra exister plusieurs mois en un lieu, puis déménager dans un autre lieu, ou
+encore rester inactif pendant un certain temps. Chaque nouveau lieu étant un challenge pour remonter une infrastructure
+et un espace adaptés aux activités du hackerspace. D'où son nom : <i>Laboratoire Ouvert... Ou Pas</i>.
 </div>
 
 <h1>Hackers ?</h1>
