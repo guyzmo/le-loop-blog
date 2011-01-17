@@ -27,6 +27,5 @@
   <%include file="header.mako" />
 </%def>
 <%def name="footer()">
-  <%include file="support.mako" />
   <%include file="footer.mako" />
 </%def>
