@@ -20,7 +20,7 @@ ${", ".join(category_links)}
 % endif
 </div>
   <div class="post_excerpt">
-    ${post.summary}
+    ${post.summary} <i><a href="${post.permapath()}">Click here for more...</a></i>
   </div>
 </div>
 % endfor
