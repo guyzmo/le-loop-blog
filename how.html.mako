@@ -15,13 +15,20 @@ ressources potentiellement utiles au lieu.
 <div>
 Vous pouvez venir sur IRC, sur le canal #frlab via <a href="http://webchat.freenode.net/?channels=frlab">une applet</a>
 ou en utilisant une application faite pour ça, comme <a href="http://www.pidgin.im/">Pidgin</a>, <a href="http://xchat.org/">XChat</a>
-ou encore <a href="http://irssi.org/"></a>
+ou encore <a href="http://irssi.org/">Irssi</a>.
 </div>
 
 <h1>Mailing Lists</h1>
 
 <div>
-(pas encore pretes... patience)
+Vous pouvez vous inscrire à la Mailing-List via <a href="http://lists.leloop.org/">l'interface dédiée</a>.
+</div>
+
+<h1>Wiki</h1>
+
+<div>
+Pour participer aux workshops, aux évènements, aux projets et participer à la documentation 
+un <a href="http://wiki.leloop.org">wiki</a> a été ouvert à cet effet.
 </div>
 
 <h1>Trac</h1>
