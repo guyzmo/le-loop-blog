@@ -156,6 +156,22 @@ a:hover {
     color:inherit;
 }
 
+
+.prose div a {
+    text-decoration:none;
+    color:inherit;
+    background: rgba(255,180,255,0.2);
+}
+.prose div a:visited {
+    text-decoration:none;
+    color:inherit;
+    background: rgba(255,180,255,0.1);
+}
+.prose div a:hover {
+    text-decoration:underline;
+    color:inherit;
+}
+
 .rounded {
     padding:0px;
     margin-bottom:5px;
