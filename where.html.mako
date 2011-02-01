@@ -19,7 +19,7 @@ GPS coordinates:<br />
 <h1>IRC</h1>
 
 <div>
-Join us on <a href="irc://irc.freenode.org/frlab">#frlab</a> on irc.freenode.org 
+Join us on <a href="irc://irc.freenode.org/frlab">#frlab</a> and on <a href="irc://irc.freenode.org/leloop">#leloop</a> on irc.freenode.org 
 </div>
 
 <h1>Mail</h1>
