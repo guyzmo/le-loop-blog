@@ -23,6 +23,7 @@ Internet, il est temps de prendre possession de cet espace.
 Ainsi notre but est de garder cet espace accessible à tout hacker chaque jour de la 
 semaine, ainsi que de permettre aux groupes, collectifs, communautés et associations
 d'avoir un endroit où se réunir, notamment :
+
     - pour organiser des workshops, des conférences
     - pour travailler sur des projets (hackday/hackweekend/hackweek)
     - pour se retrouver régulièrement et faire avancer des projets qui demandent de l'espace
@@ -31,6 +32,7 @@ d'avoir un endroit où se réunir, notamment :
 
 Ainsi vendredi 21 janvier à 19h, on va faire une réunion de démarrage du hackerspace, où
 sera vu notamment :
+
     - comment gérer une présence pour une ouverture quotidienne,
     - qui compte venir travailler régulièrement au Loop,
     - quels sont les projets, ateliers et conférences proposés,
