@@ -5,7 +5,7 @@
 
 <div>
 Snail Mail:<br />
-Squat : Chateau Albat'art<br />
+Squat : Chateau Albat'Art<br />
 40, rue René Boulanger 75010 Paris, France<br />
 Métro République, lignes 5, 8, 9, 11<br />
 </div>
@@ -25,7 +25,11 @@ Join us on <a href="irc://irc.freenode.org/frlab">#frlab</a> and on <a href="irc
 <h1>Mail</h1>
 
 <div>
-contact{at}leloop.org (en cours de mise en place)
+contact{at}leloop.org
+</div>
+
+<div>
+Et vous pouvez rejoindre la <a href="http://lists.leloop.org">Mailing List</a>
 </div>
 
 <h1>RFC2549/RFC1149</h1>
