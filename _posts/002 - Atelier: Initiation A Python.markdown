@@ -1,5 +1,5 @@
 ---
-categories: info
+categories: info, atelier
 date: 2011/02/01 16:52:00
 title: Atelier d'initiation a Python et PyQT4
 author: guyzmo
