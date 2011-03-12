@@ -13,7 +13,7 @@ ressources potentiellement utiles au lieu.
 <h1>IRC</h1>
 
 <div>
-Vous pouvez venir sur IRC, sur le canal #frlab via <a href="http://webchat.freenode.net/?channels=frlab">une applet</a>
+Vous pouvez venir sur IRC, sur le canal #leloop via <a href="http://webchat.freenode.net/?channels=leloop">une applet</a>
 ou en utilisant une application faite pour ça, comme <a href="http://www.pidgin.im/">Pidgin</a>, <a href="http://xchat.org/">XChat</a>
 ou encore <a href="http://irssi.org/">Irssi</a>.
 </div>
