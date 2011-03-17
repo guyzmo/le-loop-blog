@@ -45,7 +45,7 @@ Pour demander l'accès il faut exécuter la commande :
 </div>
 
 <pre>
-  % htpasswd -n $nickname
+  \% htpasswd -n $nickname
 </pre>
 
 <div>
