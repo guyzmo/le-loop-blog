@@ -10,11 +10,10 @@ Pour assurer une présence quotidienne, ajoutez-vous sur <a href="http://wiki.le
 De cette façon, d'autres sauront quand venir pour vous retrouver, et notamment travailler sur des projets communs.
 </div>
 <div>
-Le lieu nous hébergeant assure une permanence à l'entrée de 14h à 19h. Toutes les personnes inscrites sur le wiki pourront etre
-mises sur la liste des personnes autorisées à entrer.<br />
+Pour passer, faites signe sur <a href="irc://irc.freenode.net/leloop">IRC</a> afin de savoir qui est présent.<br />
 </div>
 <div>
-Pour assister aux Ateliers, de meme ajoutez-vous sur <a href="http://wiki.leloop.org">le wiki</a> !<br />
+Pour assister aux Ateliers, de même ajoutez-vous sur <a href="http://wiki.leloop.org">le wiki</a> !<br />
 </div>
 
 <div>
