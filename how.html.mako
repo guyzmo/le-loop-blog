@@ -15,7 +15,8 @@ ressources potentiellement utiles au lieu.
 <div>
 Vous pouvez venir sur IRC, sur le canal #leloop via <a href="http://webchat.freenode.net/?channels=leloop">une applet</a>
 ou en utilisant une application faite pour ça, comme <a href="http://www.pidgin.im/">Pidgin</a>, <a href="http://xchat.org/">XChat</a>
-ou encore <a href="http://irssi.org/">Irssi</a>.
+ou encore <a href="http://irssi.org/">Irssi</a>.<br />
+<a href="irc://irc.freenode.net/leloop">#leloop @ freenode</a>
 </div>
 
 <h1>Mailing Lists</h1>
@@ -44,7 +45,7 @@ Pour demander l'accès il faut exécuter la commande :
 </div>
 
 <pre>
- \% htpasswd -n $nickname
+  % htpasswd -n $nickname
 </pre>
 
 <div>
