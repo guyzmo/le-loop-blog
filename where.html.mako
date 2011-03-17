@@ -7,7 +7,7 @@
 Snail Mail:<br />
 Squat : Chateau Albat'Art<br />
 40, rue René Boulanger 75010 Paris, France<br />
-Métro République, lignes 5, 8, 9, 11<br />
+Métro République, lignes 3, 5, 8, 9, 11<br />
 </div>
 
 <div>
@@ -19,7 +19,7 @@ GPS coordinates:<br />
 <h1>IRC</h1>
 
 <div>
-Join us on <a href="irc://irc.freenode.org/frlab">#frlab</a> and on <a href="irc://irc.freenode.org/leloop">#leloop</a> on irc.freenode.org 
+Join us on <a href="irc://irc.freenode.net/leloop">#leloop</a> on irc.freenode.net
 </div>
 
 <h1>Mail</h1>
