@@ -5,7 +5,7 @@ title: Controle RFID pour ouvrir la porte !
 author: guyzmo
 summary: "Afin de tester un peu les systèmes RFID, nous avons créé un hack RFID sur base de contrôleur
 MiFare SL030 et Arduino pour gèrer l'ouverture de la porte du hackerspace. L'idée étant d'en faire un
-Proof Of Concept pour la porte du squat."
+Proof Of Concept pour la porte principale du lieu."
 ---
 
 ## Contrôleur RFID
