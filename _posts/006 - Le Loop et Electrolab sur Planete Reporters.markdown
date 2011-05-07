@@ -14,7 +14,7 @@ Olivier Mellan qui s'est intéressé aux hackerspaces et à la fabrication dans 
 
 Alors allez le soutenir, créez-vous un compte youtube et cliquez sur « Like » !
 
-[Fabuleux Labos sur youtube](http://www.youtube.com/watch?v=H6T8ylsz_Z0)
+[Lien vers Fabuleux Labos sur youtube](http://www.youtube.com/watch?v=H6T8ylsz_Z0&html5=True)
 
 Merci pour lui !
 
