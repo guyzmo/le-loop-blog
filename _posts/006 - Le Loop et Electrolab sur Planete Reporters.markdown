@@ -12,9 +12,9 @@ Dans le cadre du concours Planète Reporters, Le Loop et [l'Électrolab](http://
 Olivier Mellan qui s'est intéressé aux hackerspaces et à la fabrication dans les labs. Son reportage a
 été sélectionné par le jury et est parmi les 10 finalistes. Le nom de son reportage c'est « fabuleux labos ».
 
-Alors allez le soutenir, créez-vous un compte youtube et cliquez sur « Like » !
+Alors allez le soutenir, cliquez sur le lien ci-dessous, sélectionnez la vidéo « Fabuleux Labos » et cliquez sur « Like » !
 
-[Lien vers Fabuleux Labos sur youtube (vidéo html5)](http://www.youtube.com/watch?v=H6T8ylsz_Z0&html5=True)
+[Lien (plein de javascript) vers Fabuleux Labos sur youtube (vidéo flash)](http://www.gmodules.com/gadgets/ifr?url=http://www.google.com/reviews/polls/v2/contest/user/planetereporter/gadgetfw.xml&lang=fr&lang=en&hl=en_US#)
 
 Merci pour lui !
 
