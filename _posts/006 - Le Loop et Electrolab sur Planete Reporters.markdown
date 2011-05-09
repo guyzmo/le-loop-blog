@@ -14,7 +14,8 @@ Olivier Mellan qui s'est intéressé aux hackerspaces et à la fabrication dans 
 
 Alors allez le soutenir, cliquez sur le lien ci-dessous, sélectionnez la vidéo « Fabuleux Labos » et cliquez sur « Like » !
 
-[Lien (plein de javascript) vers Fabuleux Labos sur youtube (vidéo flash)](http://www.gmodules.com/gadgets/ifr?url=http://www.google.com/reviews/polls/v2/contest/user/planetereporter/gadgetfw.xml&lang=fr&lang=en&hl=en_US#)
+* [Lien (plein de javascript) vers Fabuleux Labos sur youtube (vidéo flash)](http://www.gmodules.com/gadgets/ifr?url=http://www.google.com/reviews/polls/v2/contest/user/planetereporter/gadgetfw.xml&lang=fr&lang=en&hl=en_US#)
+* [Lien (plein de javascript) vers la page de Planète Reporter sur Youtube](http://www.youtube.com/user/PlaneteReporter)
 
 edit: Olivier me précise que pour que le vote soit comptabilisé, il faut avoir créé un compte sur youtube, être connecté et s'être abonné à la chaîne « Planète Reporter ».
 Le pouce rouge s'efface même si le vote n'a pas été pris en compte.
