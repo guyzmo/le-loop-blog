@@ -16,5 +16,8 @@ Alors allez le soutenir, cliquez sur le lien ci-dessous, sélectionnez la vidéo
 
 [Lien (plein de javascript) vers Fabuleux Labos sur youtube (vidéo flash)](http://www.gmodules.com/gadgets/ifr?url=http://www.google.com/reviews/polls/v2/contest/user/planetereporter/gadgetfw.xml&lang=fr&lang=en&hl=en_US#)
 
+edit: Olivier me précise que pour que le vote soit comptabilisé, il faut avoir créé un compte sur youtube et être connecté.
+Le pouce rouge s'efface même si le vote n'a pas été pris en compte.
+
 Merci pour lui !
 
