@@ -7,6 +7,7 @@
 <div class="heisenberg">
     Heisenberg : [NONE|UNSAFE|<span style="background: orange">EXITING</span>|UNKWNON|SAFE|INSTALLED|HOME]<br />
 </div>
+
 <div class="static">
 <a href="/what.html">What?</a> <a href="/when.html">When?</a> <a href="/where.html">Where?</a> <a href="/how.html">How?</a>
 </div>
