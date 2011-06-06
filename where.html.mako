@@ -4,7 +4,8 @@
 <h1>Physical Location</h1>
 
 <div>
-Currently moving.
+Location currently not available.<br />
+Please wait for a new space to open !
 </div>
 
 <h1>IRC</h1>
