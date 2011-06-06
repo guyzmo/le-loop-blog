@@ -1,7 +1,7 @@
 ---
 categories: comm
 date: 2011/06/1 10:10:10
-title: Fermeture du loop au chateau : nouvelle itération du loop
+title: Fermeture du loop au chateau, nouvelle itération du loop
 author: guyzmo
 summary: "Suite à la fermeture du lieu qui nous a accueilli pour la première itération du loop, 
 il est temps de se reposer du déménagement et faire des barbecues avant de repartir de plus belle
