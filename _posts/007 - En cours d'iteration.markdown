@@ -14,10 +14,7 @@ profitons de cet été pour se faire des barbecues, des pique-niques etc.. Et su
 aux autres lieux avec qui travailler qu'ils soient hackerspaces ou squats. Avant qu'un nouveau 
 lieu nous soit offert, et que l'aventure se réitère !
 
-![Alt text](/path/to/img.jpg "Optional title")
-
-* ![souvenirs...](http://m0g.net/~guyzmo/chateau1.jpeg "Encore le château")
-* ![souvenirs,](http://1.bp.blogspot.com/-sLciA0EiwFU/TWVzK7-iOKI/AAAAAAAAAkA/V0lBDRQ9cJ8/s1600/L1010008.JPG "Le château Albatart")
+* ![souvenirs...](http://m0g.net/~guyzmo/chateau1.jpeg "Château Albatart")
 
 Si vous avez des photos du Loop au Chateau, n'hésitez pas à envoyer les photos à contact _at_ leloop _dot_ org.
 Quand nous aurons assez de matière on pourra faire une galerie sur le site ;)
