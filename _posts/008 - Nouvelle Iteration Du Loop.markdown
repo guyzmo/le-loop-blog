@@ -1,7 +1,7 @@
 ---
 categories: comm
 date: 2011/06/21 10:10:10
-title: Le Loop : Deuxieme Iteration au Hapax,C14
+title: Le Loop, deuxieme iteration au C14-Hapax
 author: guyzmo
 summary: "Depuis 3 semaines que le chateau a fermé, Le Loop réitère dans un nouveau lieu !"
 ---
