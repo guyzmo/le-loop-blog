@@ -4,8 +4,9 @@
 <h1>Physical Location</h1>
 
 <div>
-Location currently not available.<br />
-Please wait for a new space to open !
+C14/Hapax
+Metro 3, 11 and 4 nearby (Arts et Métiers, Réaumur Sébastopol, Rambuteau).
+Please wait for the full address, or contact us by phone.
 </div>
 
 <h1>IRC</h1>
