@@ -6,7 +6,7 @@
 <div>
 C14/Hapax
 Metro 3, 11 and 4 nearby (Arts et Métiers, Réaumur Sébastopol, Rambuteau).
-Please wait for the full address, or contact us by phone.
+14, rue Chapon, 75003 Paris
 </div>
 
 <h1>IRC</h1>
