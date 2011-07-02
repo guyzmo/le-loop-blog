@@ -4,31 +4,31 @@
 <h1>Physical Location</h1>
 
 <div>
-<p>La Machine à Bulles<br />
+La Machine à Bulles<br />
 14, rue Chapon, 75003 Paris<br />
-Metro : Arts et Métiers(3,11), Rambuteau(11), Réaumur Sébastopol(3,4).</p>
+Metro : Arts et Métiers(3,11), Rambuteau(11), Réaumur Sébastopol(3,4).
 </div>
 
 <h1>IRC</h1>
 
 <div>
-<p><a href="irc://irc.freenode.net/leloop">#leloop</a> @ irc.freenode.net</p>
+<a href="irc://irc.freenode.net/leloop">#leloop</a> @ irc.freenode.net
 </div>
 
 <h1>Mail</h1>
 
 <div>
-<p>contact{at}leloop.org</p>
+contact{at}leloop.org
 </div>
 
 <div>
-<p>Et vous pouvez rejoindre la <a href="http://lists.leloop.org">Mailing List</a></p>
+Et vous pouvez rejoindre la <a href="http://lists.leloop.org">Mailing List</a>
 </div>
 
 <h1>RFC2549/RFC1149</h1>
 
 <div>
-<p>Un élevage de pigeon voyageur est en cours d'installation.</p>
+Un élevage de pigeon voyageur est en cours d'installation.
 </div>
 
 </div>
