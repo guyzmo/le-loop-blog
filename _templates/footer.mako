@@ -1,6 +1,5 @@
 <p>
 <ul>
-   <li> <a href="http://www.laquadrature.net/loppsi"><img class="support" src="/img/lqdn-censortefeux-1.gif" alt="non à loppsi-2" /></a>
    <li> <a href="http://www.laquadrature.net/"><img class="support" src="/img/lqdn.png" /></a><br />
 </ul>
 <a href="${bf.util.site_path_helper(bf.config.blog.path,'feed')}"><img src="/img/rss.png" height='20' /></a>
