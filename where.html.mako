@@ -23,7 +23,7 @@ contact{at}leloop.org
 Et vous pouvez rejoindre la <a href="http://lists.leloop.org">Mailing List</a>
 </div>
 
-<h1>RFC2549/RFC1149</h1>
+<h1>RFC1149/RFC2549/RFC6214</h1>
 
 <div>
 Un élevage de pigeon voyageur est en cours d'installation.
