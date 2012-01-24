@@ -3,6 +3,7 @@
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
   <head>
+     ${self.head()}
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="description" content="Hackerspace located in central Paris." /> 
     <meta name="keywords" content="hackerspace, diy, hackers, workshops, conferences" /> 
