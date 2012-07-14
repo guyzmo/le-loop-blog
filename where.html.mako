@@ -4,7 +4,13 @@
 <h1>Physical Location</h1>
 
 <div>
-Please wait, the system is looking for a new place.
+Nos nouveaux hôtes sont:<br />
+<a href="http://garexp.org">La Gare XP</a><br />
+0bis avenue Lucien Descaves<br />
+75014 Paris<br />
+<br />
+Métro: Porte d'Orléans<br />
+RER: Cité Universitaire<br />
 </div>
 
 <h1>IRC</h1>
