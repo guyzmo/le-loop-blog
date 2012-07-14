@@ -1,6 +1,6 @@
 ---
 categories: comm
-date: 2011/07/04 10:10:10
+date: 2012/07/04 10:10:10
 title: Le Loop au quai 0bis en Gare XP
 author: guyzmo
 summary: "Apres plusieurs mois de balade dans les squats les plus chaleureux de Paris, Le Loop est accueilli par la Gare XP !"
