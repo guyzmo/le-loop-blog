@@ -9,15 +9,18 @@
     <meta name="keywords" content="hackerspace, diy, hackers, workshops, conferences" /> 
   </head>
   <body>
-    <div id="content">
+    <div id="content" class="content">
       ${self.header()}
+
       <div id="main_block">
         <div id="prose_block">
           ${next.body()}
         </div><!-- End Prose Block -->
       </div><!-- End Main Block -->
+      <div class="push"></div>
     </div> <!-- End Content -->
-    <div id="footer">
+
+    <div id="footer" class="footer">
       ${self.footer()}
     </div> <!-- End Footer -->
   </body>
