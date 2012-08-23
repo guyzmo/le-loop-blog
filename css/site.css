@@ -1,4 +1,9 @@
+html {
+    height: 100%;
+}
+
 body {
+    height: 98%;
     background: black url('/img/bg.jpeg') no-repeat;
     color: white;
     font-family: Monospace, Courier;
@@ -35,9 +40,20 @@ a:hover.title {
     font-size: 50%;
 }
 
-#footer {
-    position: relative;
-    font-size: 20%;
+.content {
+    min-height: 100%;
+    height: auto !important;
+    margin: 0 auto -109px;
+    overflow: auto;
+}
+
+.push {
+    height: 85px;
+}
+
+.footer {
+    height: 95px;
+    font-size: 5px;
     text-align: right;
 }
 
@@ -54,6 +70,7 @@ a:hover.title {
     background: rgba(255, 255, 255, 0.20);
     margin-right: 20%;
     margin-left: 20%;
+    margin-top: 10px;
 }
 
 .post_title {
@@ -175,15 +192,24 @@ a:hover {
     color:inherit;
 }
 
-.rounded {
-    padding:0px;
-    margin-bottom:5px;
-    border-radius:5px 5px 5px 5px;
-    -moz-border-radius:5px 5px 5px 5px; 
+.roundedTop {
+    -webkit-border-bottom-left-radius:0px;
+    -webkit-border-bottom-right-radius:0px;
+    -webkit-border-top-left-radius:5px;
+    -webkit-border-top-right-radius:5px;
+    border-radius:5px 5px 0px 0px;
+    -moz-border-radius:5px 5px 0px 0px; 
+}
+
+.roundedLow {
     -webkit-border-bottom-left-radius:5px;
     -webkit-border-bottom-right-radius:5px;
-    -webkit-border-top-left-radius:5px;
-    -webkit-border-top-right-radius:5px;}
-font-weight: bold;
+    -webkit-border-top-left-radius:0px;
+    -webkit-border-top-right-radius:0px;
+    border-radius:0px 0px 5px 5px;
+    -moz-border-radius:0px 0px 5px 5px; 
+}
+
+/*font-weight: bold;*/
 
 
