@@ -6,8 +6,8 @@
 </div>
 <div class="heisenberg">
 ##    Heisenberg : [NONE|SETTLED|MOVING IN|INSTALLED|<span style="background: white; foreground: black">HOME</span>]<br />
-##    Heisenberg : [NONE|SETTLED|MOVING IN|<span style="background: green">INSTALLED</span>|HOME]<br />
-    Heisenberg : [NONE|SETTLED|<span style="background: blue">MOVING IN</span>|INSTALLED|HOME]<br />
+    Heisenberg : [NONE|SETTLED|MOVING IN|<span style="background: green">INSTALLED</span>|HOME]<br />
+##    Heisenberg : [NONE|SETTLED|<span style="background: blue">MOVING IN</span>|INSTALLED|HOME]<br />
 ##    Heisenberg : [NONE|<span style="background: orange">SETTLED</span>|MOVING IN|INSTALLED|HOME]<br />
 ##    Heisenberg : [<span style="background: red">NONE</span>|SETTLED|MOVING IN|INSTALLED|HOME]<br />
 </div>
