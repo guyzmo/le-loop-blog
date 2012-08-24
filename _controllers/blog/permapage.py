@@ -1,4 +1,3 @@
-import urlparse
 from blogofile.cache import bf
 import re
 
@@ -25,7 +24,9 @@ def write_permapages():
 
         env = {
             "post": post,
-            "posts": blog.posts
+            "posts": blog.posts,
+            "next_post": None,
+            "prev_post": None
         }
 
         #Find the next and previous posts chronologically

@@ -40,6 +40,10 @@ a:hover.title {
     font-size: 50%;
 }
 
+.entrypaging {
+    font-size: 75%;
+}
+
 .content {
     min-height: 100%;
     height: auto !important;
