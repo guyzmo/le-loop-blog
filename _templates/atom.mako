@@ -27,7 +27,7 @@
 % for category in post.categories:
     <category scheme="${bf.config.blog.url}" term="${category}" />
 % endfor
-    <summary type="html"><![CDATA[${post.title}]]></summary>
+    <summary type="html"><![CDATA[${post.summary}]]></summary>
     <content type="html" xml:base="${post.permalink}"><![CDATA[${post.content}]]></content>
   </entry>
 % endfor
