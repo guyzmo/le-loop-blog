@@ -8,26 +8,21 @@
   },
   "address":"0bis, Avenue Lucien Descaves 75014 Paris",
   "contact":{
-//    "phone":"",
     "twitter":"@le_loop",
+    "irc":"irc://irc.freenode.org/leloop",
+    "email":"contact@leloop.org",
     "ml":"leloop@lists.leloop.org"
   },
-  "cam":"http:\/\/wiki.leloop.org\/images\/thumb\/1\/17\/LeLoop-brainfuck.png\/120px-LeLoop-brainfuck.png"
   "logo":"http:\/\/wiki.leloop.org\/images\/thumb\/1\/17\/LeLoop-brainfuck.png\/120px-LeLoop-brainfuck.png"
   "open":true,
+  "status":"iteration in progress",
   "lastchange":1345652542,
   "sensors":[
-//    {"temp":{"hacklab":"8.5C","handwerklokaal":"20.5C","lounge":"7.5C"}}
   ],
   "feeds":[
     {"name":"blog","type":"application/rss+xml","url":"https://leloop.org/blog/feed"},
-//    {"name":"calendar","type":"text/calendar","url":"https://revspace.nl/revspace.ical"}
   ],
   "events":[
-//    {"name":"julian","type":"check-in","t":1320585844},
-//    {"name":"zerocool","type":"check-in","t":1320536415},
-//    {"name":"gmc","type":"check-in","t":1320534968},
-//    {"name":"foobar","type":"check-in","t":1320528604}
   ],
   "lat":2.332408,
   "lon":48.817214
