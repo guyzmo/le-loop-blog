@@ -20,7 +20,7 @@
   "sensors":[
   ],
   "feeds":[
-    {"name":"blog","type":"application/rss+xml","url":"https://leloop.org/blog/feed"},
+    {"name":"blog","type":"application/rss+xml","url":"https://leloop.org/blog/feed"}
   ],
   "events":[
   ],
