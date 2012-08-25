@@ -1,10 +1,10 @@
 {
   "api":"0.12",
   "space":"Le Loop",
-  "url":"https:\/\/leloop.org",
+  "url":"http:\/\/leloop.org",
   "icon":{
-    "open":"https://leloop.org/open.png",
-    "closed":"https://leloop.org/close.png"
+    "open":"http://leloop.org/open.png",
+    "closed":"http://leloop.org/close.png"
   },
   "address":"0bis, Avenue Lucien Descaves 75014 Paris",
   "contact":{
@@ -20,7 +20,7 @@
   "sensors":[
   ],
   "feeds":[
-    {"name":"blog","type":"application/rss+xml","url":"https://leloop.org/blog/feed"}
+    {"name":"blog","type":"application/rss+xml","url":"http://leloop.org/blog/feed"}
   ],
   "events":[
   ],
