@@ -13,9 +13,11 @@ Cyphertite fait partie de ces solutions de stockage dans le Cloud (Dropbox) qui
 ont fleuri par paquets ces derniers temps, et qui intègre plein de crypto pour
 protéger vos précieux fichiers de toute sortes d'attaquants. Mais surtout, le
 client est full opensource, du coup on peut vérifier :
-- que la crypto est robuste
-- qu'il n'y a pas de backdoor
-- qu'il n'y a pas de bugs
+
+ * que la crypto est robuste
+ * qu'il n'y a pas de backdoor
+ * qu'il n'y a pas de bugs
+
 et même, faire des passerelles cyphertite/NFS, des plugins rsync, enfin bref
 plein de trucs cools.
 
