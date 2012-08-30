@@ -3,7 +3,7 @@ categories: atelier
 date: 2012/08/29 23:56:00
 title: Atelier confection de GoodFET
 author: dermiste
-summary: "Un atelier de construction de GoodFET au Loop."
+summary: "Un atelier de construction de GoodFET au Loop qui aura lieu le 4 septembre au loop. Mais vous ne connaissez pas GoodFET ? On vous dit tout dans le reste de l'article !"
 ---
 Ce Mardi 4 septembre aura lieu une session de construction de GoodFET.
 

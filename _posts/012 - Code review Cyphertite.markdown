@@ -3,7 +3,7 @@ categories: atelier
 date: 2012/08/30 15:42:00
 title: Code review Cyphertite
 author: dermiste
-summary: "Une revue de code de Cyphertite."
+summary: "Le Samedi 8 Septembre, venez lire et casser du code toute la journée! Cyphertite, une solution de stockage libre dans ton cloud vient d'être releasé. A nous de vérifier que ça fait bien ce qu'ils nous promettent. Plus de détails dans l'article."
 ---
 Le Samedi 8 septembre, je serai au Loop toute la journée (sachant que la
 journée commence à 11h le samedi, on est pas des bêtes) pour faire une revue de
