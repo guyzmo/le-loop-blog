@@ -13,5 +13,5 @@
 </div>
 
 <div class="static">
-<a href="/what.html">What?</a> <a href="/when.html">When?</a> <a href="/where.html">Where?</a> <a href="/how.html">How?</a>
+<a href="/what.html">What?</a> <a href="/when.html">When?</a> <a href="/where.html">Where?</a> <a href="/how.html">How?</a> <a href="http://wiki.leloop.org/">Wiki!</a>
 </div>
