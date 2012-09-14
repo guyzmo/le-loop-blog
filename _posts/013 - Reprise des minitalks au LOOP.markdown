@@ -3,9 +3,11 @@ categories: comm
 date: 2012/09/14 02:02:00
 title: Reprise des minitalks le Mercredi soir au LOOP
 author: okhin
-summary: "C'est la reprise - venez nous parler de vos idées"
+summary: "C'est la reprise ! venez nous parler de vos idées. 
+Le Loop relance le principe des minitalks lors des rendez-vous hebdomadaires, 
+qui est l'occasion pour chacun de prendre la parole. Venez, et lancez-vous !"
 ---
-Le LOOP relance le principe des minitalks lors des rendez-vous hebdomadaire (le
+Le Loop relance le principe des minitalks lors des rendez-vous hebdomadaires (le
 Mercredi soir donc pour ceux qui ne connaissent pas).
 
 Le but est de parler en 5-10 minutes d'un projet ou d'une idée à développer,
