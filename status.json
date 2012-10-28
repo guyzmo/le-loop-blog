@@ -1,7 +1,7 @@
 {
   "api":"0.12",
   "space":"Le Loop",
-  "url":"http:\/\/leloop.org",
+  "url":"http://leloop.org/",
   "icon":{
     "open":"http://leloop.org/open.png",
     "closed":"http://leloop.org/close.png"
@@ -13,14 +13,14 @@
     "email":"contact@leloop.org",
     "ml":"leloop@lists.leloop.org"
   },
-  "logo":"http:\/\/wiki.leloop.org\/images\/thumb\/1\/17\/LeLoop-brainfuck.png\/120px-LeLoop-brainfuck.png",
+  "logo":"http://wiki.leloop.org/images/thumb/1/17/LeLoop-brainfuck.png/120px-LeLoop-brainfuck.png",
   "open":true,
   "status":"iteration in progress",
   "lastchange":1345916664,
   "sensors":[
   ],
   "feeds":[
-    {"name":"blog","type":"application/rss+xml","url":"http://leloop.org/blog/feed"}
+    {"name":"blog","type":"application/rss+xml","url":"http://leloop.org/feed/"}
   ],
   "events":[
   ],
