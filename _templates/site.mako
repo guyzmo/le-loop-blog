@@ -7,6 +7,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="description" content="Hackerspace located in central Paris." /> 
     <meta name="keywords" content="hackerspace, diy, hackers, workshops, conferences" /> 
+    <link rel="space-api" href="http://spaceapi.leloop.org/status.json" />
   </head>
   <body>
     <div id="content" class="content">
