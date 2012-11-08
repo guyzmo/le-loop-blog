@@ -1,7 +1,7 @@
 ---
 categories: comm
 date: 2012/11/08 16:43:00
-title: Portes ouvertes à la Gare XP
+title: Portes ouvertes a la Gare XP
 author: tom
 summary: "La Gare XP vous invite à découvrir son univers à l'occasion de ses Portes ouvertes."
 ---
