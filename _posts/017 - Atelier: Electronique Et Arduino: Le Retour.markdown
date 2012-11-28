@@ -18,7 +18,7 @@ l'automatisation et informatisation des trains de la gare xp.
 
 Pour ceux qui n'ont  pas  de  matériel  (arduino,  fils,  composants
 divers etc..) pensez à en prendre, notamment les «  starter  kits  »  ou
-équivalent soit sur http://h-d.cc soit sur http://hackspark.fr (ou  vous
+équivalent soit sur [h:D](http://h-d.cc) soit sur [hackspark](hackspark) (ou  vous
 pouvez en acheter chez selectronic, mais c'est plus  cher).  Essayez  de
 venir avec vos idées, vos envies, que pour la première séance, on  fasse
 un tour des projets et envisager le chemin à parcourir.
@@ -32,7 +32,7 @@ réponse à ce mail!) pour préparer des schémas,  le  matériel  nécessaire
 etc.. On pourra aussi  essayer  de  faire  un  projet  en  mode  «  fast
 hacking », genre faire un pti hack rigolo en moins d'un après-midi. 
 
-Bref, rendez-vous à 14h samedi prochain au loop !
+Bref, rendez-vous à 14h samedi 8 novembre au loop !
 
- * http://wiki.leloop.org/index.php/Atelier_Arduino
+ * [Page Wiki](http://wiki.leloop.org/index.php/Atelier_Arduino)
 
